@@ -7,7 +7,13 @@
   text-decoration: underline;
 
   }
+<<<<<<< HEAD
  
+=======
+
+html{
+ background-color: #ffffff;   
+>>>>>>> ac4105cc1e67c65ddd7222f491f09eb4c3252274
 }
 body h1 {text-align: center;
         text-decoration:underline;
@@ -19,7 +25,7 @@ nav{font-family: lato;
     font-size: large;
     text-align: center;
     padding: 14px;
-  background-color: black;
+  background-color: rgb(9, 133, 85);
     }
 
 nav a{  display: inline;
