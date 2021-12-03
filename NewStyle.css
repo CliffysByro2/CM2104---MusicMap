@@ -259,6 +259,12 @@ main h5 {
     100% { transform: translate(1px, -2px) rotate(-1deg); }
   }
 
+  .proto_text p{
+
+    text-align: center;
+    font-size: 20;
+
+  }
 
   .SiteButton a:link, a:visited {
     background-color: #f44336;
