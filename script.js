@@ -42,7 +42,7 @@ const accessToken = getUrlParameter('access_token');
     // *************** REPLACE THESE VALUES! *************************
     let client_id = 'a83981aa815a40f6beb502f2ffd7a8ed';
     
-    let redirect_uri = 'https%3A%2F%2Fcliffysbyro2.github.io%2FCM2104---MusicMap'; // GitHub Pages URL or whatever your public url to this app is
+    let redirect_uri = 'https%3A%2F%2Fcliffysbyro2.github.io%2FCM2104---MusicMap'; // GitHub Pages URL 
     // *************** END *************************
 
     const redirect = `https://accounts.spotify.com/authorize?client_id=${client_id}&response_type=token&redirect_uri=${redirect_uri}`;
