@@ -325,7 +325,14 @@ main h5 {
     border: none;
 }
 
-
+.search_button a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
 
 
   

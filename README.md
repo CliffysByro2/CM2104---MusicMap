@@ -8,5 +8,6 @@ Nathan Stockdale
 Stuart Komar
 
 
-
+Please bare in mind, this site was only built by the two people mentioned. The full prototype
+could have been created if there was the full team to assist work on the project.
 
