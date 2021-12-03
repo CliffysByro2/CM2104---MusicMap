@@ -297,6 +297,28 @@ main h5 {
     margin-top: 20px;
 }
 
+.registration-form .login-account{
+    border-radius: 30px;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #242527;
+    border: none;
+    color: white;
+    margin-top: 20px;
+}
+
+.registration-form .submit-account{
+    border-radius: 30px;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #242527;
+    border: none;
+    color: white;
+    margin-top: 20px;
+}
+
 .registration-form .social-media{
     max-width: 600px;
     background-color: #fff;
@@ -346,4 +368,14 @@ main h5 {
         font-size: 30px;
         line-height: 70px;
     }
+}
+
+.registration-form .message{
+    font-size: 15px;
+    color: rgb(62, 172, 153);
+    font-family: 'Avenir';
+    border: 1px solid;
+    border-radius: 4%;
+    margin: 0 3px;
+    padding: 10px 20px;
 }
