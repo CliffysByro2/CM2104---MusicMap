@@ -253,6 +253,8 @@ main h5 {
   }
 
   /*=== 2. Anchor Link ===*/
+  
+  /*Form CSS */
 .registration-form{
 	padding: 50px 0;
 }
@@ -308,7 +310,7 @@ main h5 {
     margin-top: 20px;
 }
 
-.registration-form .submit-account{
+.contact-form .submit-form{
     border-radius: 30px;
     padding: 10px 20px;
     font-size: 18px;
@@ -370,12 +372,32 @@ main h5 {
     }
 }
 
-.registration-form .message{
+.contact-form .message{
     font-size: 15px;
     color: rgb(62, 172, 153);
     font-family: 'Avenir';
     border: 1px solid;
     border-radius: 4%;
     margin: 0 3px;
+    padding: 10px 20px;
+}
+
+.contact-form{
+	padding: 50px 0;
+}
+
+.contact-form form{
+    background-color: #fff;
+    max-width: 600px;
+    margin: auto;
+    padding: 50px 70px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.075);
+}
+
+.contact-form .item{
+	border-radius: 20px;
+    margin-bottom: 25px;
     padding: 10px 20px;
 }
